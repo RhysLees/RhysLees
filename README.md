@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rhys Lees</h1>
-<h3 align="center">A passionate Fullstack Developer mainly working with Laravel</h3>
+<h3 align="center">A passionate Software Engineer using Laravel</h3>
 
 
 # 💫 About Me:
