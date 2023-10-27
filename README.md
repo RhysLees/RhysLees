@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Saas Management Project & Portfolio<br>👯 I’m looking to collaborate on Laravel Projects<br>🌱 I’m currently learning Laravel Framework, Inerta JS, Vue 3<br>💬 Ask me about Laravel, Laravel Nova, Laravel Jetstream<br>📫 How to reach me info@rhyslees.co.uk<br>⚡ Fun fact I Beatbox
+🔭 I’m currently working on Saas Management Project & Portfolio<br>👯 I’m looking to collaborate on Laravel Projects<br>🌱 I’m currently learning Laravel Framework, Inerta JS, Vue 3<br>💬 Ask me about Laravel, Laravel Nova, Laravel Jetstream<br>📫 How to reach me rhys@rhyslees.co.uk<br>⚡ Fun fact I Beatbox
 
 
 ## 🌐 Socials:
